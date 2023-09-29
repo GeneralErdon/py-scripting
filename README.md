@@ -1,2 +1,3 @@
 # py-scripting
-Mis scripts personales para automatizaciones utilizando python
+My personal python scripts for automation in my projects or servers
+something like database backups, etc.
