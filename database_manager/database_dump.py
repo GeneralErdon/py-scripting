@@ -9,6 +9,7 @@ class DatabaseDump:
         self._database_list = [ 
             "sinteg",
             "syscam",
+            "itventory"
         ]
     
     def get_path(self) -> pb.Path:
